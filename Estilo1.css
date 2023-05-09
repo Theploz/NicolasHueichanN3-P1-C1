@@ -1,0 +1,30 @@
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+div.Encabezado{    
+    width: 50%;
+    border: 20px; 
+    background-color: antiquewhite;  
+}
+
+#texto{
+    display: inline-block;
+    vertical-align: top;
+  }
+
+#texto2{
+    display: inline-block;
+    vertical-align: top;
+ }
